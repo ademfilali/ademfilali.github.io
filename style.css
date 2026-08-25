@@ -653,6 +653,16 @@ section {
   font-size: 0.96rem;
   max-width: 70ch;
 }
+.knowledge-block p a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.knowledge-block p a:hover {
+  color: var(--accent-data);
+}
 
 .webinar-list {
   list-style: none;
