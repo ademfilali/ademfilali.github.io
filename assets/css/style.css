@@ -139,13 +139,21 @@ button:focus-visible {
 
 .nav__lang {
   font-family: var(--font-mono);
-  font-size: 0.75rem;
-  padding: 4px 10px;
+  font-size: 0.72rem;
+  padding: 4px 12px;
   border: 1px solid var(--line);
   border-radius: 999px;
   color: var(--text-muted);
+  white-space: nowrap;
+  overflow-x: auto;
+  max-width: 100%;
 }
+.nav__lang a { color: var(--text-muted); }
+.nav__lang a:hover { color: var(--accent); }
 .nav__lang span[aria-current="page"] { color: var(--text); font-weight: 600; }
+@media (max-width: 480px) {
+  .nav__lang { font-size: 0.64rem; padding: 4px 8px; }
+}
 
 .nav__toggle { display: none; }
 
@@ -630,6 +638,13 @@ section {
 }
 .network-list li:nth-child(odd) { padding-right: 24px; }
 .network-list b { font-size: 0.98rem; }
+.network-list b a {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--line);
+}
+.network-list b a:hover { color: var(--accent); text-decoration-color: var(--accent); }
 .network-list span { color: var(--text-muted); font-size: 0.9rem; }
 
 /* ---------------------------------------------------------

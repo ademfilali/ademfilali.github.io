@@ -5,12 +5,60 @@
     <loc>https://ademfilali.github.io/en/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ademfilali.github.io/en/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ademfilali.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ademfilali.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ademfilali.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ademfilali.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ademfilali.github.io/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ademfilali.github.io/en/"/>
   </url>
   <url>
     <loc>https://ademfilali.github.io/zh-hant/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ademfilali.github.io/en/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ademfilali.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ademfilali.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ademfilali.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ademfilali.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ademfilali.github.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ademfilali.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://ademfilali.github.io/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ademfilali.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ademfilali.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ademfilali.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ademfilali.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ademfilali.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ademfilali.github.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ademfilali.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://ademfilali.github.io/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ademfilali.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ademfilali.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ademfilali.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ademfilali.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ademfilali.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ademfilali.github.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ademfilali.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://ademfilali.github.io/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ademfilali.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ademfilali.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ademfilali.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ademfilali.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ademfilali.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ademfilali.github.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ademfilali.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://ademfilali.github.io/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ademfilali.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ademfilali.github.io/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ademfilali.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ademfilali.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ademfilali.github.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ademfilali.github.io/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ademfilali.github.io/en/"/>
   </url>
 </urlset>
